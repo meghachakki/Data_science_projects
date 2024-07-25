@@ -1,0 +1,12 @@
+[submodule "Spamdetection_project"]
+	path = Spamdetection_project
+	url = https://github.com/meghachakki/Spamdetection_project.git
+[submodule "Cyber-bullying_detection"]
+	path = Cyber-bullying_detection
+	url = https://github.com/meghachakki/Cyber-bullying_detection.git
+[submodule "Facial_emotion_detection"]
+	path = Facial_emotion_detection
+	url = https://github.com/meghachakki/Facial_emotion_detection.git
+[submodule "Anomaly_networks_detection_using_ML"]
+	path = Anomaly_networks_detection_using_ML
+	url = https://github.com/meghachakki/Anomaly_networks_detection_using_ML.git
